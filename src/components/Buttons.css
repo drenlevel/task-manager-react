@@ -1,0 +1,18 @@
+.btn-wrapper {
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  background-color: #3c3c3c;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.btn-wrapper * {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
