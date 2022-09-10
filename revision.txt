@@ -1,0 +1,7 @@
+1. switch or checkout to default branch (main) - git checkout (name of branch)
+2. checkout to a new branch (name of your choice) - git checkout -b (new branch name)
+3. do some changes on your files - whatever you work
+4. stage/finalize the changes - git add . (. to enter the directory)
+5. commit the changes to git history - git commit
+6. push/upload the changes to the online repo - git push
+7. verify that your changes are in the repo - go to the git-hub page on the browser
